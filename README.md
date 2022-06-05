@@ -1,2 +1,2 @@
 # ShellScripts
-Shell scripts, Which automate Linux system administration tasks
+Shell scripts that automate Linux system administration tasks
