@@ -56,8 +56,3 @@ echo
 echo 'Host: '
 echo "${HOSTNAME}"
 exit 0
-
-
-
-
-
