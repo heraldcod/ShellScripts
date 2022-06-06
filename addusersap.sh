@@ -60,13 +60,7 @@ fi
 passwd -e ${USER_NAME}
 
 # Display the username, password, and the host where the user was created
-echo
-echo 'Username: '
-echo "${USER_NAME}"
-echo
-echo 'Password: '
-echo "${PASSWORD}"
-echo
-echo 'Host: '
-echo "${HOSTNAME}"
+echo " Username: ${USER_NAME}
+Password: ${PASSWORD}
+Host: ${HOSTNAME} "
 exit 0
