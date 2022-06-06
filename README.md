@@ -1,7 +1,7 @@
 # ShellScripts
 Shell scripts that automate Linux system administration tasks
 
-addusers.sh Goal: Create a shell script that adds users to the same Linux system as the script is executed on.
+Script 1 - addusers.sh Goal: Create a shell script that adds users to the same Linux system as the script is executed on.
 
 1. Enforces that it be executed with superuser (root) privileges.  If the script is not executed with superuser privileges it will not attempt to create a user and        returns an exit status of 1.
 
