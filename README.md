@@ -15,3 +15,6 @@ Goal:- Create a shell script that adds users to the same Linux system as the scr
 5. Displays the username, password, and host where the account was created.  This way the help desk staff can copy the output of the script in order to easily deliver the information to the new account holder.
 
 6. Expires the password and prompts for the new password creation at the first login itself.
+
+Script 2 ( add_local-user_with_password.sh )
+- Feature added - Automatic password generation
