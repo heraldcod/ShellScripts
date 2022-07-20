@@ -1,7 +1,7 @@
 # ShellScripts
 Shell scripts that automate Linux system administration tasks
 
-Script 1 ( addusers.sh )
+Script 1 (addusers.sh)
 Goal:- Create a shell script that adds users to the same Linux system as the script is executed on.
 
 1. Enforces that it be executed with superuser (root) privileges.  If the script is not executed with superuser privileges it will not attempt to create a user and        returns an exit status of 1.
@@ -16,5 +16,8 @@ Goal:- Create a shell script that adds users to the same Linux system as the scr
 
 6. Expires the password and prompts for the new password creation at the first login itself.
 
-Script 2 ( add_local-user_with_password.sh )
+Script 2 (add_local-user_with_password.sh)
 - Feature added - Automatic password generation
+
+Script 3 (add_local-user_with_redirection.sh)
+- Feature added - redundant output redirected using the pipe ampersand syntax
