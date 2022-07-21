@@ -21,3 +21,6 @@ Script 2 (add_local-user_with_password.sh)
 
 Script 3 (add_local-user_with_redirection.sh)
 - Feature added - redundant output redirected using the pipe ampersand syntax
+
+Script 4 (disable-local-user.sh)
+- Disables local users automatically and archives the home directory
