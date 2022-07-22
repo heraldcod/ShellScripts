@@ -24,3 +24,6 @@ Script 3 (add_local-user_with_redirection.sh)
 
 Script 4 (disable-local-user.sh)
 - Disables local users automatically and archives the home directory
+
+Script 5 (show-attackers.sh)
+- Inspects the log files and blocks the IP address with maximum number of failed attempts
