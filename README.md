@@ -27,3 +27,6 @@ Script 4 (disable-local-user.sh)
 
 Script 5 (show-attackers.sh)
 - Inspects the log files and blocks the IP address with maximum number of failed attempts
+
+Script 6 (run-everywhere.sh )
+- Script runs the specified command at a time on all list of servers
